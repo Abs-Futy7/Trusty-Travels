@@ -1,6 +1,23 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🏕️ Trusty Travels
 
-## Getting Started
+A beautifully crafted, responsive travel inspiration site built using **Next.js**, **TypeScript**, and **Tailwind CSS**. Trusty Travels showcases scenic destinations with a clean and modern UI, perfect for adventurers and explorers.
+
+🌍 **Live Site**: [https://abs-futy7.github.io/Trusty-Travels/](https://abs-futy7.github.io/Trusty-Travels/)  
+📦 **Repository**: [https://github.com/Abs-Futy7/Trusty-Travels](https://github.com/Abs-Futy7/Trusty-Travels)
+
+---
+
+## 🚀 Tech Stack
+
+- **Next.js** (Static Export Mode)
+- **TypeScript**
+- **Tailwind CSS**
+- **Responsive Design**
+- **Next/Image** (Unoptimized mode for static export)
+
+---
+
+## Installation & Development
 
 First, run the development server:
 
@@ -20,17 +37,16 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
+## 📜 License
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+This project is open-source and free to use. Attribution appreciated!
 
 ## Deploy on Vercel
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+## 🙌 Credits
+
+Inspired by the thrill of exploration and the need for clean, responsive web design. Made with 💙 by @Abs-Futy7
